@@ -27,4 +27,4 @@ Standard CRC-32 (IEEE 802.3) polynomial:
 - Simulator: **Icarus Verilog**
 - Waveform Viewer: **EPWave**
 
-### Sample Output
+
